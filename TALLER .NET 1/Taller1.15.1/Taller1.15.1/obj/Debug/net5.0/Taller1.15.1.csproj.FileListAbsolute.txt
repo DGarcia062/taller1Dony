@@ -1,0 +1,16 @@
+D:\TALLER .NET 1\Taller1.15.1\Taller1.15.1\obj\Debug\net5.0\Taller1.15.1.csproj.AssemblyReference.cache
+D:\TALLER .NET 1\Taller1.15.1\Taller1.15.1\obj\Debug\net5.0\Taller1.15.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\TALLER .NET 1\Taller1.15.1\Taller1.15.1\obj\Debug\net5.0\Taller1.15.1.AssemblyInfoInputs.cache
+D:\TALLER .NET 1\Taller1.15.1\Taller1.15.1\obj\Debug\net5.0\Taller1.15.1.AssemblyInfo.cs
+D:\TALLER .NET 1\Taller1.15.1\Taller1.15.1\obj\Debug\net5.0\Taller1.15.1.csproj.CoreCompileInputs.cache
+D:\TALLER .NET 1\Taller1.15.1\Taller1.15.1\bin\Debug\net5.0\Taller1.15.1.exe
+D:\TALLER .NET 1\Taller1.15.1\Taller1.15.1\bin\Debug\net5.0\Taller1.15.1.deps.json
+D:\TALLER .NET 1\Taller1.15.1\Taller1.15.1\bin\Debug\net5.0\Taller1.15.1.runtimeconfig.json
+D:\TALLER .NET 1\Taller1.15.1\Taller1.15.1\bin\Debug\net5.0\Taller1.15.1.runtimeconfig.dev.json
+D:\TALLER .NET 1\Taller1.15.1\Taller1.15.1\bin\Debug\net5.0\Taller1.15.1.dll
+D:\TALLER .NET 1\Taller1.15.1\Taller1.15.1\bin\Debug\net5.0\ref\Taller1.15.1.dll
+D:\TALLER .NET 1\Taller1.15.1\Taller1.15.1\bin\Debug\net5.0\Taller1.15.1.pdb
+D:\TALLER .NET 1\Taller1.15.1\Taller1.15.1\obj\Debug\net5.0\Taller1.15.1.dll
+D:\TALLER .NET 1\Taller1.15.1\Taller1.15.1\obj\Debug\net5.0\ref\Taller1.15.1.dll
+D:\TALLER .NET 1\Taller1.15.1\Taller1.15.1\obj\Debug\net5.0\Taller1.15.1.pdb
+D:\TALLER .NET 1\Taller1.15.1\Taller1.15.1\obj\Debug\net5.0\Taller1.15.1.genruntimeconfig.cache

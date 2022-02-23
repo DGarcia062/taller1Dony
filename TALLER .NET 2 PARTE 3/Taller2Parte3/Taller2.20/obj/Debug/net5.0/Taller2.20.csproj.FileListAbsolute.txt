@@ -1,0 +1,16 @@
+D:\TALLER .NET 2 PARTE 3\Taller2Parte3\Taller2.20\bin\Debug\net5.0\Taller2.20.exe
+D:\TALLER .NET 2 PARTE 3\Taller2Parte3\Taller2.20\bin\Debug\net5.0\Taller2.20.deps.json
+D:\TALLER .NET 2 PARTE 3\Taller2Parte3\Taller2.20\bin\Debug\net5.0\Taller2.20.runtimeconfig.json
+D:\TALLER .NET 2 PARTE 3\Taller2Parte3\Taller2.20\bin\Debug\net5.0\Taller2.20.runtimeconfig.dev.json
+D:\TALLER .NET 2 PARTE 3\Taller2Parte3\Taller2.20\bin\Debug\net5.0\Taller2.20.dll
+D:\TALLER .NET 2 PARTE 3\Taller2Parte3\Taller2.20\bin\Debug\net5.0\ref\Taller2.20.dll
+D:\TALLER .NET 2 PARTE 3\Taller2Parte3\Taller2.20\bin\Debug\net5.0\Taller2.20.pdb
+D:\TALLER .NET 2 PARTE 3\Taller2Parte3\Taller2.20\obj\Debug\net5.0\Taller2.20.csproj.AssemblyReference.cache
+D:\TALLER .NET 2 PARTE 3\Taller2Parte3\Taller2.20\obj\Debug\net5.0\Taller2.20.GeneratedMSBuildEditorConfig.editorconfig
+D:\TALLER .NET 2 PARTE 3\Taller2Parte3\Taller2.20\obj\Debug\net5.0\Taller2.20.AssemblyInfoInputs.cache
+D:\TALLER .NET 2 PARTE 3\Taller2Parte3\Taller2.20\obj\Debug\net5.0\Taller2.20.AssemblyInfo.cs
+D:\TALLER .NET 2 PARTE 3\Taller2Parte3\Taller2.20\obj\Debug\net5.0\Taller2.20.csproj.CoreCompileInputs.cache
+D:\TALLER .NET 2 PARTE 3\Taller2Parte3\Taller2.20\obj\Debug\net5.0\Taller2.20.dll
+D:\TALLER .NET 2 PARTE 3\Taller2Parte3\Taller2.20\obj\Debug\net5.0\ref\Taller2.20.dll
+D:\TALLER .NET 2 PARTE 3\Taller2Parte3\Taller2.20\obj\Debug\net5.0\Taller2.20.pdb
+D:\TALLER .NET 2 PARTE 3\Taller2Parte3\Taller2.20\obj\Debug\net5.0\Taller2.20.genruntimeconfig.cache

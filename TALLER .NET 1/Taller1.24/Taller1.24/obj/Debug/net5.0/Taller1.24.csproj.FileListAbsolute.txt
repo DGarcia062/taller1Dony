@@ -1,0 +1,31 @@
+C:\Users\GARCIA\source\repos\Taller1.24\Taller1.24\bin\Debug\net5.0\Taller1.24.exe
+C:\Users\GARCIA\source\repos\Taller1.24\Taller1.24\bin\Debug\net5.0\Taller1.24.deps.json
+C:\Users\GARCIA\source\repos\Taller1.24\Taller1.24\bin\Debug\net5.0\Taller1.24.runtimeconfig.json
+C:\Users\GARCIA\source\repos\Taller1.24\Taller1.24\bin\Debug\net5.0\Taller1.24.runtimeconfig.dev.json
+C:\Users\GARCIA\source\repos\Taller1.24\Taller1.24\bin\Debug\net5.0\Taller1.24.dll
+C:\Users\GARCIA\source\repos\Taller1.24\Taller1.24\bin\Debug\net5.0\ref\Taller1.24.dll
+C:\Users\GARCIA\source\repos\Taller1.24\Taller1.24\bin\Debug\net5.0\Taller1.24.pdb
+C:\Users\GARCIA\source\repos\Taller1.24\Taller1.24\obj\Debug\net5.0\Taller1.24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GARCIA\source\repos\Taller1.24\Taller1.24\obj\Debug\net5.0\Taller1.24.AssemblyInfoInputs.cache
+C:\Users\GARCIA\source\repos\Taller1.24\Taller1.24\obj\Debug\net5.0\Taller1.24.AssemblyInfo.cs
+C:\Users\GARCIA\source\repos\Taller1.24\Taller1.24\obj\Debug\net5.0\Taller1.24.csproj.CoreCompileInputs.cache
+C:\Users\GARCIA\source\repos\Taller1.24\Taller1.24\obj\Debug\net5.0\Taller1.24.dll
+C:\Users\GARCIA\source\repos\Taller1.24\Taller1.24\obj\Debug\net5.0\ref\Taller1.24.dll
+C:\Users\GARCIA\source\repos\Taller1.24\Taller1.24\obj\Debug\net5.0\Taller1.24.pdb
+C:\Users\GARCIA\source\repos\Taller1.24\Taller1.24\obj\Debug\net5.0\Taller1.24.genruntimeconfig.cache
+D:\TALLER .NET 1\Taller1.24\Taller1.24\bin\Debug\net5.0\Taller1.24.exe
+D:\TALLER .NET 1\Taller1.24\Taller1.24\bin\Debug\net5.0\Taller1.24.deps.json
+D:\TALLER .NET 1\Taller1.24\Taller1.24\bin\Debug\net5.0\Taller1.24.runtimeconfig.json
+D:\TALLER .NET 1\Taller1.24\Taller1.24\bin\Debug\net5.0\Taller1.24.runtimeconfig.dev.json
+D:\TALLER .NET 1\Taller1.24\Taller1.24\bin\Debug\net5.0\Taller1.24.dll
+D:\TALLER .NET 1\Taller1.24\Taller1.24\bin\Debug\net5.0\ref\Taller1.24.dll
+D:\TALLER .NET 1\Taller1.24\Taller1.24\bin\Debug\net5.0\Taller1.24.pdb
+D:\TALLER .NET 1\Taller1.24\Taller1.24\obj\Debug\net5.0\Taller1.24.csproj.AssemblyReference.cache
+D:\TALLER .NET 1\Taller1.24\Taller1.24\obj\Debug\net5.0\Taller1.24.GeneratedMSBuildEditorConfig.editorconfig
+D:\TALLER .NET 1\Taller1.24\Taller1.24\obj\Debug\net5.0\Taller1.24.AssemblyInfoInputs.cache
+D:\TALLER .NET 1\Taller1.24\Taller1.24\obj\Debug\net5.0\Taller1.24.AssemblyInfo.cs
+D:\TALLER .NET 1\Taller1.24\Taller1.24\obj\Debug\net5.0\Taller1.24.csproj.CoreCompileInputs.cache
+D:\TALLER .NET 1\Taller1.24\Taller1.24\obj\Debug\net5.0\Taller1.24.dll
+D:\TALLER .NET 1\Taller1.24\Taller1.24\obj\Debug\net5.0\ref\Taller1.24.dll
+D:\TALLER .NET 1\Taller1.24\Taller1.24\obj\Debug\net5.0\Taller1.24.pdb
+D:\TALLER .NET 1\Taller1.24\Taller1.24\obj\Debug\net5.0\Taller1.24.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\GARCIA\source\repos\Taller1.22\Taller1.22\bin\Debug\net5.0\Taller1.22.exe
+C:\Users\GARCIA\source\repos\Taller1.22\Taller1.22\bin\Debug\net5.0\Taller1.22.deps.json
+C:\Users\GARCIA\source\repos\Taller1.22\Taller1.22\bin\Debug\net5.0\Taller1.22.runtimeconfig.json
+C:\Users\GARCIA\source\repos\Taller1.22\Taller1.22\bin\Debug\net5.0\Taller1.22.runtimeconfig.dev.json
+C:\Users\GARCIA\source\repos\Taller1.22\Taller1.22\bin\Debug\net5.0\Taller1.22.dll
+C:\Users\GARCIA\source\repos\Taller1.22\Taller1.22\bin\Debug\net5.0\ref\Taller1.22.dll
+C:\Users\GARCIA\source\repos\Taller1.22\Taller1.22\bin\Debug\net5.0\Taller1.22.pdb
+C:\Users\GARCIA\source\repos\Taller1.22\Taller1.22\obj\Debug\net5.0\Taller1.22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GARCIA\source\repos\Taller1.22\Taller1.22\obj\Debug\net5.0\Taller1.22.AssemblyInfoInputs.cache
+C:\Users\GARCIA\source\repos\Taller1.22\Taller1.22\obj\Debug\net5.0\Taller1.22.AssemblyInfo.cs
+C:\Users\GARCIA\source\repos\Taller1.22\Taller1.22\obj\Debug\net5.0\Taller1.22.csproj.CoreCompileInputs.cache
+C:\Users\GARCIA\source\repos\Taller1.22\Taller1.22\obj\Debug\net5.0\Taller1.22.dll
+C:\Users\GARCIA\source\repos\Taller1.22\Taller1.22\obj\Debug\net5.0\ref\Taller1.22.dll
+C:\Users\GARCIA\source\repos\Taller1.22\Taller1.22\obj\Debug\net5.0\Taller1.22.pdb
+C:\Users\GARCIA\source\repos\Taller1.22\Taller1.22\obj\Debug\net5.0\Taller1.22.genruntimeconfig.cache
